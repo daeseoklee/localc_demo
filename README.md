@@ -1,7 +1,7 @@
 # libreoffice calc macro demo 
 
 ## Installation 
- 
+* Clone or download this repository
 * Setup python 
   1. Install [python 3.x](https://www.python.org/downloads/windows/)
   2. Install [scipy](https://www.scipy.org/install.html) module of python
